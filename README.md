@@ -2,15 +2,15 @@
 
 This repository contains my solutions to various LeetCode problems.
 
-## 🎯 Goal
+##  Goal
 - Strengthen Data Structures and Algorithms concepts
 - Improve problem solving skills
 - Prepare for coding interviews (FAANG level)
 
-## 💻 Language Used
+##  Language Used
 - C++
 
-## 📚 Topics Covered
+##  Topics Covered
 - Arrays
 - Strings
 - Two Pointer
@@ -20,19 +20,19 @@ This repository contains my solutions to various LeetCode problems.
 - Dynamic Programming (Upcoming)
 - Graphs (Upcoming)
 
-## 📈 Progress
+##  Progress
 - Easy Problems: 1
 - Medium Problems: Coming Soon
 - Hard Problems: Coming Soon
 
 ## 🔗 LeetCode Profile
-(Add your LeetCode profile link here)
+https://leetcode.com/u/abhishek_llm/
 
 ## 🔥 Approach
 Each solution includes:
 - Clean code
 - Proper logic
 - Time & Space Complexity
-- Optimized approach (when possible)
+- Optimized approach 
 
 Stay consistent. Improvement is the main goal.
