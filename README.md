@@ -22,7 +22,7 @@ This repository contains my solutions to various LeetCode problems.
 
 ##  Progress
 - Easy Problems: 5
-- Medium Problems: Coming Soon
+- Medium Problems: 1 
 - Hard Problems: Coming Soon
 
 ## 🔗 LeetCode Profile
