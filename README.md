@@ -21,7 +21,7 @@ This repository contains my solutions to various LeetCode problems.
 - Graphs (Upcoming)
 
 ##  Progress
-- Easy Problems: 7
+- Easy Problems: 8
 - Medium Problems: 3
 - Hard Problems: Coming Soon
 
