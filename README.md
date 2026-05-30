@@ -23,7 +23,7 @@ This repository contains my solutions to various LeetCode problems.
 ##  Progress
 - Easy Problems: 9
 - Medium Problems: 3
-- Hard Problems: 1
+- Hard Problems: 2
 
 ## 🔗 LeetCode Profile
 https://leetcode.com/u/abhishek_llm/
