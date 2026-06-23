@@ -36,3 +36,15 @@ Each solution includes:
 - Optimized approach 
 
 Stay consistent. Improvement is the main goal.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/Abhishek2670/leetcode-solutions/tree/master/0027-remove-element) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/Abhishek2670/leetcode-solutions/tree/master/0027-remove-element) |
+<!---LeetCode Topics End-->
