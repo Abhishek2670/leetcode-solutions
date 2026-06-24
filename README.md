@@ -47,4 +47,16 @@ Stay consistent. Improvement is the main goal.
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Abhishek2670/leetcode-solutions/tree/master/0027-remove-element) |
+## String
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/Abhishek2670/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
+## Stack
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/Abhishek2670/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
+## Simulation
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/Abhishek2670/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
