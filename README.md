@@ -47,6 +47,7 @@ Stay consistent. Improvement is the main goal.
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Abhishek2670/leetcode-solutions/tree/master/0027-remove-element) |
+| [0876-middle-of-the-linked-list](https://github.com/Abhishek2670/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 ## String
 |  |
 | ------- |
@@ -59,4 +60,8 @@ Stay consistent. Improvement is the main goal.
 |  |
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/Abhishek2670/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/Abhishek2670/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
