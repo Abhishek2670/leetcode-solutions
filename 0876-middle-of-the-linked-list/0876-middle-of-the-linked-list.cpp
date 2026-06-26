@@ -11,15 +11,13 @@
 class Solution {
 public:
     ListNode* middleNode(ListNode* head) {
-        int n = 0;
-        for(ListNode *ptr = head ; ptr != NULL ; ptr =  ptr->next){
-            n++; // it will give size of pointeer or size of ll
-        }
-        ListNode *mid =head;
-        for(int i = 0 ; i < n/2 ; i++){
-            mid = mid->next; // it will return the middle node
-        }
-        return mid; //it helps to print the all node after middle 
+      ListNode *slow = head ;
+      ListNode *fast = head;
 
+      while(fast != NULL && fast -> next != NULL){
+        slow = slow -> next;
+        fast = fast ->next ->next;
+      }
+      return slow;
     }
 };
