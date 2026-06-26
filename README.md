@@ -47,6 +47,7 @@ Stay consistent. Improvement is the main goal.
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Abhishek2670/leetcode-solutions/tree/master/0027-remove-element) |
+| [0141-linked-list-cycle](https://github.com/Abhishek2670/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/Abhishek2670/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 ## String
 |  |
@@ -63,5 +64,10 @@ Stay consistent. Improvement is the main goal.
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Abhishek2670/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/Abhishek2670/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
+## Hash Table
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Abhishek2670/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
