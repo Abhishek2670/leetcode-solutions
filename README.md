@@ -65,6 +65,7 @@ Stay consistent. Improvement is the main goal.
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Abhishek2670/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/Abhishek2670/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Abhishek2670/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Abhishek2670/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
@@ -73,4 +74,12 @@ Stay consistent. Improvement is the main goal.
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Abhishek2670/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Abhishek2670/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Abhishek2670/leetcode-solutions/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Abhishek2670/leetcode-solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
