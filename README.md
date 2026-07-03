@@ -5,7 +5,6 @@ This repository contains my solutions to various LeetCode problems.
 ##  Goal
 - Strengthen Data Structures and Algorithms concepts
 - Improve problem solving skills
-- Prepare for coding interviews (FAANG level)
 
 ##  Language Used
 - C++
@@ -16,14 +15,10 @@ This repository contains my solutions to various LeetCode problems.
 - Two Pointer
 - Sliding Window
 - Binary Search
-- Recursion(upcoming)
-- Dynamic Programming (Upcoming)
-- Graphs (Upcoming)
+- Recursion
+- Dynamic Programming 
+- Graphs
 
-##  Progress
-- Easy Problems: 9
-- Medium Problems: 3
-- Hard Problems: 2
 
 ## 🔗 LeetCode Profile
 https://leetcode.com/u/abhishek_llm/
