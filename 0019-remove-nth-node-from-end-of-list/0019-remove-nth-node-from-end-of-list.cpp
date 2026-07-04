@@ -5,19 +5,18 @@ public:
         int size = 0;
         ListNode* temp = head;
 
-        while(temp != NULL){
+        while (temp != NULL) {
             size++;
             temp = temp->next;
         }
 
-        
-        if(size == n){
+        if (size == n) {
             return head->next;
         }
 
         ListNode* prev = head;
 
-        for(int i = 1; i < size - n; i++){
+        for (int i = 1; i < size - n; i++) {
             prev = prev->next;
         }
 
