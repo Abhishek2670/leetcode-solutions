@@ -38,6 +38,7 @@ Stay consistent. Improvement is the main goal.
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Abhishek2670/leetcode-solutions/tree/master/0027-remove-element) |
+| [0217-contains-duplicate](https://github.com/Abhishek2670/leetcode-solutions/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
 | ------- |
@@ -76,6 +77,7 @@ Stay consistent. Improvement is the main goal.
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Abhishek2670/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Abhishek2670/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0217-contains-duplicate](https://github.com/Abhishek2670/leetcode-solutions/tree/master/0217-contains-duplicate) |
 ## Math
 |  |
 | ------- |
@@ -87,4 +89,8 @@ Stay consistent. Improvement is the main goal.
 | [0021-merge-two-sorted-lists](https://github.com/Abhishek2670/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Abhishek2670/leetcode-solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/Abhishek2670/leetcode-solutions/tree/master/0206-reverse-linked-list) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Abhishek2670/leetcode-solutions/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
