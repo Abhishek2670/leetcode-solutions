@@ -55,6 +55,7 @@ Stay consistent. Improvement is the main goal.
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Abhishek2670/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Abhishek2670/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [2390-removing-stars-from-a-string](https://github.com/Abhishek2670/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
@@ -97,9 +98,11 @@ Stay consistent. Improvement is the main goal.
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Abhishek2670/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Abhishek2670/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Abhishek2670/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Abhishek2670/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
