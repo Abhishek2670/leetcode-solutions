@@ -39,6 +39,7 @@ Stay consistent. Improvement is the main goal.
 | ------- |
 | [0027-remove-element](https://github.com/Abhishek2670/leetcode-solutions/tree/master/0027-remove-element) |
 | [0217-contains-duplicate](https://github.com/Abhishek2670/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Abhishek2670/leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
 ## Two Pointers
 |  |
 | ------- |
@@ -95,6 +96,7 @@ Stay consistent. Improvement is the main goal.
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Abhishek2670/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Abhishek2670/leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
 ## Design
 |  |
 | ------- |
@@ -105,4 +107,16 @@ Stay consistent. Improvement is the main goal.
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Abhishek2670/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Abhishek2670/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/Abhishek2670/leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
+## Greedy
+|  |
+| ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/Abhishek2670/leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/Abhishek2670/leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
 <!---LeetCode Topics End-->
