@@ -39,6 +39,7 @@ Stay consistent. Improvement is the main goal.
 | ------- |
 | [0027-remove-element](https://github.com/Abhishek2670/leetcode-solutions/tree/master/0027-remove-element) |
 | [0217-contains-duplicate](https://github.com/Abhishek2670/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0322-coin-change](https://github.com/Abhishek2670/leetcode-solutions/tree/master/0322-coin-change) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Abhishek2670/leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
 ## Two Pointers
 |  |
@@ -110,6 +111,7 @@ Stay consistent. Improvement is the main goal.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/Abhishek2670/leetcode-solutions/tree/master/0322-coin-change) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Abhishek2670/leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
 ## Greedy
 |  |
@@ -119,4 +121,16 @@ Stay consistent. Improvement is the main goal.
 |  |
 | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/Abhishek2670/leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Abhishek2670/leetcode-solutions/tree/master/0322-coin-change) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Abhishek2670/leetcode-solutions/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Abhishek2670/leetcode-solutions/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
